@@ -7,7 +7,7 @@
 
 ## 效果上图：
 
-![image](https://user-images.githubusercontent.com/543287/126447077-48823663-cf5d-433b-b51d-8096f634477d.png)
+![image](https://github.com/chengjiahua/MarkdownPhotos/blob/main/wechat-rot/xiaoguo.jpg)
 
 ## 使用方法：
 
