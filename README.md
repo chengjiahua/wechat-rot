@@ -5,6 +5,8 @@
 
 依赖：https://github.com/tans/push-bot
 
+定时推送消息，目前已实现消息库有彩虹屁，舔狗日志，起床语录等
+
 ## 效果上图：
 
 ![image](https://github.com/chengjiahua/MarkdownPhotos/blob/main/wechat-rot/xiaoguo.jpg)
