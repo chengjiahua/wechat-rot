@@ -5,11 +5,14 @@
 
 依赖：https://github.com/tans/push-bot
 
+推送精灵的一个简单应用
+
 定时推送消息，目前已实现消息库有彩虹屁，舔狗日志，起床语录等
 
 ## 效果上图：
 
 ![image](https://github.com/chengjiahua/MarkdownPhotos/blob/main/wechat-rot/xiaoguo.jpg)
+
 
 ## 使用方法：
 
@@ -23,5 +26,13 @@
 
 ### 4.替换common.go中的RoomUrl
 
-### 5.运行程序
-go build
+### 5.运行程序 go build
+
+
+## 推送精灵的其他应用
+
+patch审核,合并等信息，推送到企微群
+
+![image](https://github.com/chengjiahua/MarkdownPhotos/blob/main/wechat-rot/push-rot1.jpg)
+
+![image](https://github.com/chengjiahua/MarkdownPhotos/blob/main/wechat-rot/push-rot2.jpg)
