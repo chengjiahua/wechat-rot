@@ -11,7 +11,7 @@
 
 ### 1.微信关注：推送精灵
 
-二维码：
+![image](https://user-images.githubusercontent.com/543287/126447077-48823663-cf5d-433b-b51d-8096f634477d.png)
 
 ### 2.创建企业微信群，邀请推送精灵进群
 
@@ -19,4 +19,5 @@
 
 ### 4.替换common.go中的RoomUrl
 
-### 5.go run main.go 或者go build
+### 5.运行程序
+go build
