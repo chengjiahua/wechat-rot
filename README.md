@@ -7,6 +7,8 @@
 
 ## 效果上图：
 
+![image](https://user-images.githubusercontent.com/543287/126447077-48823663-cf5d-433b-b51d-8096f634477d.png)
+
 ## 使用方法：
 
 ### 1.微信关注：推送精灵
