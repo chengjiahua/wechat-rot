@@ -11,7 +11,7 @@
 
 ## 效果上图：
 
-![image](https://gitee.com/cheng851226130/MarkdownPhotos/blob/main/wechat-rot/xiaoguo.jpg)
+![image](https://gitee.com/cheng851226130/MarkdownPhotos/raw/main/wechat-rot/xiaoguo.jpg)
 
 
 ## 使用方法：
@@ -33,6 +33,6 @@
 
 patch审核,合并等信息，推送到企微群
 
-![image](https://gitee.com/cheng851226130/MarkdownPhotos/blob/main/wechat-rot/push-rot1.png)
+![image](https://gitee.com/cheng851226130/MarkdownPhotos/raw/main/wechat-rot/push-rot1.png)
 
-![image](https://gitee.com/cheng851226130/MarkdownPhotos/blob/main/wechat-rot/push-rot2.png)
+![image](https://gitee.com/cheng851226130/MarkdownPhotos/raw/main/wechat-rot/push-rot2.png)
