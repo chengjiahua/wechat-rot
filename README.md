@@ -33,6 +33,6 @@
 
 patch审核,合并等信息，推送到企微群
 
-![image](https://github.com/chengjiahua/MarkdownPhotos/blob/main/wechat-rot/push-rot1.jpg)
+![image](https://github.com/chengjiahua/MarkdownPhotos/blob/main/wechat-rot/push-rot1.png)
 
-![image](https://github.com/chengjiahua/MarkdownPhotos/blob/main/wechat-rot/push-rot2.jpg)
+![image](https://github.com/chengjiahua/MarkdownPhotos/blob/main/wechat-rot/push-rot2.png)
